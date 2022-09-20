@@ -1,0 +1,8 @@
+name: gdp
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - xarray
+  - matplotlib
