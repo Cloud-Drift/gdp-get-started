@@ -4,4 +4,4 @@ This repository contains the simple notebook `get_started_with_hourly_gdp_data.i
 
 This notebook should be readily executable in a binder environment which can be launched by clicking the "launch binder" badge above :point_up:. Alternatively, you can run the notebook in a python environment containing the python libraries listed in the file `environment.yml`.
 
-Feel free to reach out to [Shane Elipot](https://github.com/selipot) with questions and suggestions. 
+Feel free to raise an issue for this repo or push a pull request. 
