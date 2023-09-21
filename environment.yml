@@ -2,7 +2,8 @@ name: gdp
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python>=3.6
+  - notebook
   - numpy
   - xarray
   - matplotlib
